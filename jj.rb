@@ -1,5 +1,5 @@
-HOMEBREW_JJ_VERSION = "1.1.1".freeze
-HOMEBREW_JJ_SHA = "f30fc9f3722e880c0ea8ce6f36a2f8e12b549f66d1f3b8f2f031f99f363ed1db".freeze
+HOMEBREW_JJ_VERSION = "1.1.2".freeze
+HOMEBREW_JJ_SHA = "bf6fcf05b1d969c86df778ad02ea4c5735af3e0a7cae29315706bf02cc76575b".freeze
 
 class Jj < Formula
   desc "jj"
