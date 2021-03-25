@@ -1,5 +1,5 @@
-HOMEBREW_JJ_VERSION = "1.7.1".freeze
-HOMEBREW_JJ_SHA = "fe8f0cb59376aa2dc0c8f3ed05f394c3646d2b1a5ff51b9654bad06e995d982b".freeze
+HOMEBREW_JJ_VERSION = "1.7.2".freeze
+HOMEBREW_JJ_SHA = "a4c927c716f60e34b2d92e0c80ce9cc9b36cef3b2af39b30f8679eeec1fc8bd7".freeze
 
 # openssl sha256 <file>
 
